@@ -1,0 +1,6 @@
+id,title,parent,remit,persona
+crown,The Crown,,Head of state; constitutional authority subject to confirmed rules,Deliberate and cautious
+lord-chancellor,Lord Chancellor,crown,Coordinates civilian executive and Cabinet,Pragmatic and consensus-seeking
+energy-chancellor,Chancellor of Energy,lord-chancellor,Oversees energy policy and administration,Technically minded and direct
+economy-chancellor,Chancellor of Economy,lord-chancellor,Oversees fiscal and economic policy,Cost-conscious and analytical
+energy-commissioner,Commissioner for Energy Generation,energy-chancellor,Oversees energy generation sector,Concerned about system reliability
