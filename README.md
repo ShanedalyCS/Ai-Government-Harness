@@ -1,4 +1,4 @@
-# House Taylan — GLM-5.3-Flash government harness (prototype)
+# Taylan Government — GLM-5.3-Flash government harness (prototype)
 
 A runnable Java 17+ / Maven / SQLite event-driven prototype. **Not a complete import of your Whimsical board.** The sample CSV contains five illustrative offices. Replace it with the full registry after confirming each node represents a post (the atlas also contains descriptions, teams and unresolved draft rules).
 
